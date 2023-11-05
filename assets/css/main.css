@@ -3977,6 +3977,10 @@ img {
 
 .shop-schedule, .para, #two, .contact{
 	direction: rtl; /* Set the text direction to right-to-left */
+
+#intro span, #intro img{
+	border: none;
+}
     text-align: right; /* Align text to the right (optional) */
 }
 .shop-schedule h2{
